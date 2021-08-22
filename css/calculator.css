@@ -44,7 +44,7 @@ h1{
     font-weight: bold;
     font-size: 20px;
     color: red;
-    background: linear-gradient(rgba(14, 166, 255, 0.6), rgba(22, 149, 223, 0.6)), url(../img/calcu.jpg);
+    background: #000000;
     background-size: cover;
     border-radius: 5px;
 }
@@ -62,9 +62,10 @@ h1{
 }
 
 .btn:hover{
-    background: #000000;
+    
 }
 .btn:active{
+    background: linear-gradient(rgba(14, 166, 255, 0.6), rgba(22, 149, 223, 0.6)), url(../img/calcu.jpg);
     background: #e75353;
     color: #fff;
 }
