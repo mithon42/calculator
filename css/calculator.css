@@ -63,8 +63,8 @@ h1{
 
 .btn:hover{
     background: #e75353;
+    color: #fff;
 }
 .btn:active{
     background: linear-gradient(rgba(14, 166, 255, 0.6), rgba(22, 149, 223, 0.6)), url(../img/calcu.jpg);
-    color: #fff;
 }
